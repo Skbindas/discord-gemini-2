@@ -1,0 +1,8 @@
+discord==2.3.2
+requests==2.31.0
+asyncio==3.4.3
+python-dotenv==1.0.0
+google-generativeai==0.3.2
+langdetect==1.0.9
+emoji==2.10.1
+colorama==0.4.6
