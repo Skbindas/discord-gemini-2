@@ -1,0 +1,48 @@
+# ========================================
+# DISCORD BOT ESSENTIAL REQUIREMENTS
+# Anti-Ban Edition (Minimal)
+# ========================================
+
+# Core Dependencies
+discord==2.3.2
+requests==2.31.0
+asyncio==3.4.3
+python-dotenv==1.0.0
+
+# AI & Language
+google-generativeai==0.3.2
+langdetect==1.0.9
+emoji==2.10.1
+
+# UI
+colorama==0.4.6
+
+# ========================================
+# ESSENTIAL ANTI-BAN PACKAGES
+# ========================================
+
+# System Monitoring
+psutil==5.9.8                    # Resource monitoring
+
+# Advanced Scheduling
+schedule==1.2.1                  # Break scheduling
+
+# Security
+fake-useragent==1.4.0            # Random user agents
+
+# Time Handling
+python-dateutil==2.8.2           # Advanced time operations
+
+# ========================================
+# INSTALLATION
+# ========================================
+# 
+# Quick install: pip install -r requirements-essential.txt
+# 
+# This includes only the essential packages needed for:
+# - Basic bot functionality
+# - Anti-ban features
+# - System monitoring
+# - Smart scheduling
+#
+# ========================================

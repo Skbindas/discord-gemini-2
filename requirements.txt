@@ -1,8 +1,43 @@
+# Core Discord Bot Dependencies
 discord==2.3.2
 requests==2.31.0
 asyncio==3.4.3
 python-dotenv==1.0.0
+
+# AI & Language Processing
 google-generativeai==0.3.2
 langdetect==1.0.9
 emoji==2.10.1
+
+# UI & Terminal Enhancement
 colorama==0.4.6
+
+# Anti-Ban & Advanced Features
+psutil==5.9.8                    # System monitoring & resource management
+schedule==1.2.1                  # Advanced scheduling for breaks & rotations
+fake-useragent==1.4.0            # Random user agents for API calls
+python-dateutil==2.8.2           # Advanced date/time handling
+cryptography==42.0.8             # Enhanced security for tokens
+hashlib==3.2                     # Token hashing & verification
+uuid==1.30                       # Unique session IDs
+random2==1.0.1                   # Enhanced random number generation
+timezone==1.2                     # Timezone handling for global usage
+
+# Monitoring & Logging
+loguru==0.7.2                    # Advanced logging with rotation
+watchdog==4.0.0                  # File system monitoring
+psutil==5.9.8                    # System resource monitoring
+
+# Network & Security
+urllib3==2.2.1                   # Enhanced HTTP client
+certifi==2024.8.30               # SSL certificate handling
+charset-normalizer==3.3.2        # Character encoding detection
+idna==3.6                        # Internationalized domain names
+
+# Performance & Optimization
+aiohttp==3.9.5                   # Async HTTP client
+asyncio-throttle==1.0.2          # Rate limiting for async operations
+aiosignal==1.3.1                 # Async signal handling
+frozenlist==1.4.1                # Immutable list for performance
+multidict==6.0.5                 # Multi-value dictionary
+yarl==1.9.4                      # URL parsing & manipulation
