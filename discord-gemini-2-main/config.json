@@ -1,0 +1,14 @@
+{
+  "default_mode": "casual",
+  "cooldown_seconds": { "min": 60, "max": 120 },
+  "channels": {
+    "default_slowmode": 5,
+    "overrides": {
+      
+    }
+  },
+  "response_patterns": ["casual", "professional", "funny", "helpful", "quiet"],
+  "webhook_url": "",
+  "owner_id": "",
+  "gemini_api_keys": []
+}
